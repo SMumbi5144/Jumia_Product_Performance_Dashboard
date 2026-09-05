@@ -4,7 +4,7 @@ An analysis carried out to explore pricing, discounts, ratings and customer enga
 
 ##  Project Objective
 
-The goal of this project was to understand how **price, discounts, ratings, and customer feedback** contribute to product performance.
+The goal of this project was to understand how **price, discounts, ratings and customer feedback** contribute to product performance.
 
 Since the dataset doesn't contain actual sales or units sold, I used **review count as a proxy for customer engagement**. It is important to note that review count is not a sales metric and the relationships found in this analysis do not translate to causality.
 
